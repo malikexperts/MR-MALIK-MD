@@ -35,7 +35,24 @@
 
 ---
  <br>
+ 
+### FORK THIS REPO
 
+1. Must Fork This Repo Before Deployment !
+   <br> 
+<a href="https://github.com/MalikExperts/MR-MALIK-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+
+
+### SCAN QR
+
+2. Get Pairing Code For SESSION ID
+   <br>
+<a href='http://malikexperts.42web.io/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<br>
+
+---
+
+<br>
 <h4 align="center"> Deploy on 
  Heroku ( YouTube Tutorial Included )
 </h4>
