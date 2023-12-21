@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=1976D2&center=true&width=910&height=100&lines=I'M+MR-MALIK-MD;Multi+Divice+Whatsapp+Bot;Created+By+MALIK EXPERTS;Muhammad Nasrullah Machi;&;Muhammad Awais Machi" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=1976D2&center=true&width=910&height=100&lines=I'M+MR-MALIK-MD;Multi+Divice+Whatsapp+UserBot;Created+By+MALIK EXPERTS" alt="Typing SVG" /></a>
 <a href="https://github.com/MalikExperts/MR-MALIK-MD">
     <img src="https://i.imgur.com/wsaCsiZ.jpg">
   </a>
@@ -96,15 +96,6 @@
 <a href="https://chat.whatsapp.com/KmDPSsqWrTnCeOZcmXSeTg"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
 </a>
 </p>
-<br>
-      
----
-<br>
-
-
-<h2 align="center">〽️ Why Should You Use Atlas as your Base 〽️
-</h2>
-
 <br>
 
 
