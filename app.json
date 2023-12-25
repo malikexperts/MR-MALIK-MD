@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (GURU-BOT)",
-  "description": " Whatsapp bot.",
+  "name": "whatsapp-bot-md (Mr-Malik)",
+  "description": " Whatsapp bot md.",
   "keywords": [
-    "whatsapp bot"
+    "whatsapp bot md"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "https://github.com/malikexperts/Mr-Malik-Md",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -13,7 +13,7 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "your session id,sent on your WA number",
       "required": true,
       "value": ""
     },
