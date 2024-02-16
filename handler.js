@@ -387,7 +387,7 @@ export async function handler(chatUpdate) {
                 else
                     m.exp += xp
                     if (!isPrems && plugin.credit && global.db.data.users[m.sender].credit < plugin.credit * 1) {
-                        this.reply(m.chat, `🤷🏻 You don't have enough gold`, m)
+                        this.reply(m.chat, `🟥 You don't have enough gold`, m)
                         continue // Gold finished
                     }
                     if (plugin.level > _user.level) {
@@ -557,7 +557,7 @@ export async function participantsUpdate({
                   let nthMember = groupMetadata.participants.length;
                   let secondText = `Welcome, ${await this.getName(user)}, our ${nthMember}th member`;
           
-                  let welcomeApiUrl = `https://wecomeapi.onrender.com/welcome-image?username=${encodeURIComponent(
+                  let welcomeApiUrl = `https://welcome.guruapi.tech/welcome-image?username=${encodeURIComponent(
                     await this.getName(user)
                   )}&guildName=${encodeURIComponent(await this.getName(id))}&guildIcon=${encodeURIComponent(
                     ppgp
@@ -576,10 +576,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴍʀ ᴍᴀʟɪᴋ ᴍᴅ",
+                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
                         body: "welcome to Group",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/KmDPSsqWrTnCeOZcmXSeTg',
+                        sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -610,7 +610,7 @@ export async function participantsUpdate({
                   let nthMember = groupMetadata.participants.length;
                   let secondText = `Goodbye, our ${nthMember}th group member`;
           
-                  let leaveApiUrl = `https://wecomeapi.onrender.com/leave-image?username=${encodeURIComponent(
+                  let leaveApiUrl = `https://welcome.guruapi.tech/leave-image?username=${encodeURIComponent(
                     await this.getName(user)
                   )}&guildName=${encodeURIComponent(await this.getName(id))}&guildIcon=${encodeURIComponent(
                     ppgp
@@ -629,10 +629,10 @@ export async function participantsUpdate({
                         contextInfo: {
                         mentionedJid: [user],
                         externalAdReply: {
-                        title: "ᴍʀ ᴍᴀʟɪᴋ ᴍᴅ",
+                        title: "ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ",
                         body: "Goodbye from  Group",
                         thumbnailUrl: leaveApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/KmDPSsqWrTnCeOZcmXSeTg',
+                        sourceUrl: 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
@@ -645,6 +645,7 @@ export async function participantsUpdate({
             break;
             case "promote":
                 const promoteText = (chat.sPromote || this.spromote || conn.spromote || `${emoji.promote} @user *is now admin*`).replace("@user", "@" + participants[0].split("@")[0]);
+                
                 if (chat.detect) {
                     this.sendMessage(id, {
                         text: promoteText.trim(),
@@ -654,6 +655,7 @@ export async function participantsUpdate({
                 break;
             case "demote":
                 const demoteText = (chat.sDemote || this.sdemote || conn.sdemote || `${emoji.demote} @user *demoted from admin*`).replace("@user", "@" + participants[0].split("@")[0]);
+                
                 if (chat.detect) {
                     this.sendMessage(id, {
                         text: demoteText.trim(),
@@ -739,18 +741,15 @@ export async function deleteUpdate(message) {
             return
         let chat = global.db.data.chats[msg.chat] || {}
        
-            await this.reply(msg.chat, `
+            await this.reply(conn.user.id, `
             ≡ deleted a message 
             ┌─⊷  𝘼𝙉𝙏𝙄 𝘿𝙀𝙇𝙀𝙏𝙀 
             ▢ *Number :* @${participant.split`@`[0]} 
             └─────────────
-            TO DEACTIVE , PRESS 
-            */off antidelete*
-            *.enable delete*
             `.trim(), msg, {
                         mentions: [participant]
                     })
-        this.copyNForward(msg.chat, msg, false).catch(e => console.log(e, msg))
+        this.copyNForward(conn.user.id, msg, false).catch(e => console.log(e, msg))
     } catch (e) {
         console.error(e)
     }

@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot-md (Mr-Malik)",
-  "description": " Whatsapp bot md.",
+  "name": "whatsapp-bot (GURU-BOT)",
+  "description": " Whatsapp bot.",
   "keywords": [
-    "whatsapp bot md"
+    "whatsapp bot"
   ],
-  "repository": "https://github.com/malikexperts/Mr-Malik-Md",
+  "repository": "https://github.com/Guru322/GURU-BOT",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -13,14 +13,44 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id,sent on your WA number",
+      "description": "your session id",
       "required": true,
       "value": ""
+    },
+    "MODE": {
+      "description": "mode public or private",
+      "required": true,
+      "value": "public"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
       "required": false,
       "value": ""
+    },
+     "HKEY": {
+      "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
+      "required": true,
+      "value": ""
+    },
+     "HAPP": {
+      "description": "Put the Heroku app name, same as above entered",
+      "required": true,
+      "value": ""
+    },
+    "statusview": {
+      "description": "make it true if you want bot to view status",
+      "required": false,
+      "value": ""
+    },
+    "autoRead": {
+      "description": "make it true if you want bot to read messages",
+      "required": false,
+      "value": ""
+    },
+    "antidelete": {
+      "description": "bot will forward deleted messages if you make it true",
+      "required": false,
+      "value": "false"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
@@ -43,3 +73,4 @@
     }
   ]
 }
+

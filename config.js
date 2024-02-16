@@ -10,10 +10,10 @@ global.owner = [
   ['923494757886', 'Nasrullah', true], 
   [''] 
 ] //Number of owners
-global.pairingNumber = "923167458766" //put your bot number here
+global.pairingNumber = "923494757886" //put your bot number here
 /*============== CHATGPT ==============*/
-global.openAiapi = ''   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
-global.org = ''   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
+global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
+global.org = 'org-hE49SehUQEPAGJAy20yr4Om9'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 //*============= ==============*/
 global.mods = ['923494757886','923124442554'] 
 global.prems = ['923124442554', '923494757886']
@@ -71,7 +71,7 @@ global.dygp = ''
 global.fgsc = '' 
 global.fgyt = ''
 global.fgpyp = ''
-global.fglog = '' 
+global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
 

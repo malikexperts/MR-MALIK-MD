@@ -1,137 +1,144 @@
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=1976D2&center=true&width=910&height=100&lines=I'M+MR-MALIK-MD;Multi+Divice+Whatsapp+UserBot;Created+By+MALIK EXPERTS" alt="Typing SVG" /></a>
-<a href="https://github.com/MalikExperts/MR-MALIK-MD">
-    <img src="https://i.imgur.com/wsaCsiZ.jpg">
+<p align="center">  
+  <a href="https://youtu.be/WcA7GZuaN0A">
+    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/K.jpg">
+    <h1 align="center">GURU-BOT 2.O</h1>
   </a>
-
-<h1 align="center"> MR-MALIK-MD
-</h1>
-
-<p align="center"> 
-<b>Hi, This Is "MR-MALIK-MD" an Opensource WhatsApp bot made by <a href="https://github.com/MalikExperts">Malik Experts </a> Team to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
-<br>
-
-<p align="center">
-  <a href="https://github.com/MalikExperts/MR-MALIK-MD/fork">
-    <img src="https://img.shields.io/github/forks/MalikExperts/MR-MALIK-MD?label=Forks&style=social">
-    
-    
-  <a href="https://github.com/MalikExperts/MR-MALIK-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/MalikExperts/MR-MALIK-MD?style=social">
-  </a>
-  <br><br>
-  
-<p align="center">
-<a href="https://github.com/MalikExperts"><img title="Owner" src="https://img.shields.io/badge/Owner-Malik Experts-orange.svg?style=for-the-badge&logo=github"></a>
-
- <a href="https://github.com/MalikExperts/MR-MALIK-MD/blob/main/LICENSE.md">
-  
-<img src='https://img.shields.io/github/license/MalikExperts/MR-MALIK-MD?color=%231e81b0&style=for-the-badge'>
-
-<p align="center">
-<a href="https://github.com/MalikExperts"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-purple.svg?style=for-the-badge"></a>
-<a href="https://github.com/MalikExperts"><img title="" src="https://img.shields.io/badge/Maintained-Under Maintenance-green.svg?style=for-the-badge"></a>
 </p>
-<br>
-
----
- <br>
-
- #### This Bot Is In Under Deployment, Please Don't Fork For Now.
- 
- <br>
-
- ---
-
- <br>
- 
-### FORK THIS REPO
-
-1. Must Fork This Repo Before Deployment !
-   <br> 
-<a href="https://github.com/MalikExperts/MR-MALIK-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
-
-
-### SCAN QR
-
-2. Get Pairing Code For SESSION ID
-   <br>
-<a href='http://malikexperts.42web.io/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
-<br>
-
----
-
-<br>
-<h4 align="center"> Deploy on 
- Heroku ( YouTube Tutorial Included )
-</h4>
-
+<p align="center">
+<a href="https://github.com/Guru322"><img title="Author" src="https://img.shields.io/badge/GURU-BOT-black?style=for-the-badge&logo=telegram"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/Guru322?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Guru322?label=Followers&style=social"></a>
+<a href="https://github.com/Guru322/GURU-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
+<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
+<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=shield"/></a>
 </p>
 
-<p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/MalikExperts/MR-MALIK-MD">
-    <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
-    </a>
-    </br>
-    <a href=""><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-</p> 
-        <p align="center" >
+####  
+GURU-BOT- Simple Multi Device whatsapp bot.
+
+***
+
+#### SETUP
+
+1. Fork the repo
     <br>
-    __________________________
+<a href='https://github.com/Guru322/GURU-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+
+2. Get Session ID (Server 1)
     <br>
-</p>
-    </br>
-<h4 align="center"> Deploy on Replit - ( YouTube Tutorial Included & Highly Recommended )
-</h4>
-
-<p align="center" >
-    <a href='https://repl.it/github/MalikExperts/MR-MALIK-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-Deploy On Replit-black?style=for-the-badge&logo=replit'/></a>
-    <br>     
-    <a href=""><img src="https://i.ibb.co/71mYRh4/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="105">
-    </a>
-</p> 
-<br>
+<a href='https://session.guruapi.tech' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
----
+3. Get Session ID (Server 2) (use this if server 1 Doesn't work)
+    <br>
+<a href='https://replit.com/@Gurucharan-saho/GURU-BOT-PAIR?v=1' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-<br>
-<h4 align="center"> Facing Trouble? Join my WhatsApp Group for Support.
-</h4>
+#### DEPLOY TO HEROKU
 
-<p align="center" >
-<a href="https://chat.whatsapp.com/KmDPSsqWrTnCeOZcmXSeTg"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="140px">
-</a>
-</p>
-<br>
+1. If You don't have an account in Heroku. Create a account.
+    <br>
+<p align="center"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+2. Watch the following video tutorial, for assistance.
+    <br>
+<p align="center"><a href="https://youtu.be/yfdzckCcbPk?si=doxesZtn87BepUBw"> <img src="https://img.shields.io/badge/heroku%20Tutorial-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
----
-<br>
-<h2 align="center">⚠️ Warning ⚠️
+3. Now Deploy
+    <br>
+<p align="center"><a href="https://web-guru-bot.vercel.app"> <img src="https://img.shields.io/badge/Heroku%20Deploy-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+#### DEPLOY TO RAILWAY
+
+1. If You don't have an account On Railway. Create a account.
+    <br>
+<p align="center"><a href="https://railway.app"> <img src="https://img.shields.io/badge/RailWay%20Account-blue?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
+
+ - Fork and star this repo.
+- Now head towards https://railway.app/new, select Deploy from repo.
+- Now select the forked repository, select branch.
+- Now go to <b>Variables</b> and add variable listed below.
+   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
+- Go to <b>Deployments</b> and wait for deplyment to complete.
+- and you're good to go.
+  
+2. TUTORIAL (SOON)
+#### DEPLOY TO OKTETO 
+
+1. If You don't have an account On Okteto. Create a account.
+    <br>
+<p align="center"><a href="https://www.okteto.com/pricing/?plan=SaaS"> <img src="https://img.shields.io/badge/Okteto%20Account-blue?style=for-the-badge&logo=okteto" width="220" height="38.45"/></a></p>
+
+ - Fork and star this repo.
+- Now head towards Lunch Dev Environment
+- Now select the forked GURU BOT repository.
+- Now go to <b>Variables</b> and add variable listed below.
+   - DATABASE_URL, SESSION_ID, REMOVEBG_KEY, PREFIX
+- Then Click Lunch and wait for deplyment to complete.
+- and you're good to go.
+
+2. TUTORIAL (SOON)
+#### DEPLOY TO Replit 
+
+1. If You don't have an account in Replit. Create a account.
+    <br>
+<p align="center"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+2. Now Deploy
+    <br>
+<p align="center"><a href="https://repl.it/github/Guru322/GURU-BOT"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
+
+ 
+ 
+ ## 🤩 Support
+
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+
+- Star ⭐ the repo if you like GURU-BOT.
+
+## CREDITS 
+<div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
+<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
+
+<div><button id="boton" type="button">Base  - By FG98F</button></div>
+<a href="https://github.com/FG98F"><img src="https://github.com/FG98F.png" width="150" height="150" alt="adiwajshing"/></a>
+
+
+
+## `Main Dev` 
+<a href="https://github.com/Guru322"><img src="https://github.com/Guru322.png" width="250" height="250" alt="Guru322"/></a>
+  
+`GURU-BOT - By Guru322`
+
+### CONTRIBUTORS
+<a href="https://github.com/IndraTensei"><img src="https://github.com/IndraTensei.png" width="200" height="200" alt="Ash"/></a>
+<a href="https://github.com/Amrit9304"><img src="https://github.com/Amrit9304.png" width="200" height="200" alt="Amrit"/></a>
+<a href="https://github.com/Ghost7798"><img src="https://github.com/Ghost7798.png" width="200" height="200" alt="Ghost7798"/></a>
+<a href="https://github.com/Kai0071"><img src="https://github.com/Kai0071.png" width="200" height="200" alt="Kai"/></a>
+
+<h2 align="center">  Reminder
 </h2>
-
-<br>
-
-- This bot is not made by WhatsApp.inc so overusing this bot may result in WhatsApp account ban.
-- We will only assist you in `Bot Deployment ( Installation or Hosting )`. Not in `Bot Development`.
-- If you Modify this bot and face any issues, I am not responsible for that because it's not possible for me or my team to help everyone in bot Development / Modification. Only modify if you know what you are doing.
-- This bot is made for `Educational / Fun / Group Management` purposes only. I and the team will not be responsible for any misuse of this bot.
-- We will only assist you in `Setup / Deployment` of this bot.
-
-<br>
-
----
-<br>
+   
+## 
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
 
 
-<h2 align="center">🔰 Meet Our Team 🔰
+<h2 align="center">  NOTICE
 </h2>
+   
+## 
+- Not For Sale
+- Don't Forget to Give Credits If you are using or Reuploading My Plugins/files
+- Have A Good Day Ahead
 
 
 
-[![Nasrullah](https://github.com/Nasrullahmalik.png)](https://github.com/Nasrullahmalik)  | [![Awais Malik](https://github.com/awaiskmalik.png)](https://github.com/awaiskamlik) |
-|----|----|
-[Nasrullah Khan](https://github.com/Nasrullahmalik)  | [Awais Malik](https://github.com/awaiskmalik) | 
-Owner, Main Developer, Maintainer, Dubugger, Support Developer | Owner, Co-Developer, Co-Maintainer, Support Developer
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGuru322%2FGURU-BOT?ref=badge_large)
