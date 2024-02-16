@@ -4,7 +4,7 @@ const response = axios.get(`https://cric-theta.vercel.app/geo?url=https://urdu.g
 const res = await response
 
 let msg = ''
-if (res.data.newsb) msg += "\n📺*جیو نیوز*\n\n" + res.data.newsb
+if (res.data.newsb) msg += "\n*جیو نیوز* 📺\n\n" + res.data.newsb
 if (res.data.newsc) msg += res.data.newsc
 if (res.data.newsd) msg += res.data.newsd
 if (res.data.newse) msg += res.data.newse
