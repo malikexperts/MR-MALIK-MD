@@ -1,7 +1,7 @@
 import fetch from 'node-fetch';
 import { translate } from '@vitalets/google-translate-api';
 
-let Handler = async (m, { conn }) => {
+let quranSurahHandler = async (m, { conn }) => {
   try {
     // Extract the surah number or name from the command text.
     let surahInput = m.text.split(' ')[1];
@@ -59,11 +59,11 @@ ${translatedTafsirEnglish.text}`;
   }
 };
 
-Handler.help = ['quran [surah_number|surah_name]'];
-Handler.tags = ['quran', 'surah'];
-Handler.command = ['quran', 'surah']
+quranSurahHandler.help = ['quran [surah_number|surah_name]'];
+quranSurahHandler.tags = ['quran', 'surah'];
+quranSurahHandler.command = ['quran', 'surah']
 
-export default Handler;
+export default quranSurahHandler;
 
   
   
