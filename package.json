@@ -1,7 +1,7 @@
 {
-    "name": "gurubot",
+    "name": "MR-MALIK-MD",
     "version": "2.0.0",
-    "description": "Advanced WhatsApp Bot",
+    "description": "Multidevice WhatsApp user Bot",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -14,27 +14,27 @@
         "test": "node test.js"
     },
     "keywords": [
-        "termux-whatsapp-bot",
+        "whatsapp-user-bot",
         "whatsapp-bot",
+        "whatsapp-md",
+        "api-whatsapp",
         "whatsapp",
-        "js-whatsapp",
-        "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "malik-bot",
+        "mr-malik-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/malikexperts/MR-MALIK-MD",
     "author": {
-        "name": "GURU"
+        "name": "Malik-experts"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Guru322/GURU-BOT.git"
+        "url": "git+https://github.com/malikexperts/MR-MALIK-MD.git"
     },
     "bugs": {
-        "url": "https://github.com/Guru322/GURU-BOT/issues"
+        "url": "https://github.com/malikexperts/MR-MALIK-MD/issues"
     },
     "license": "Apache License 2.0",
     "dependencies": {
