@@ -6,6 +6,8 @@
 
 <h1 align="center"> MR-MALIK-MD
 </h1>
+<h1> Base Bot Guru-Bot
+</h1>
 
 <p align="center"> 
 <b>Hi, This Is "MR-MALIK-MD" an Opensource WhatsApp bot made by <a href="https://github.com/MalikExperts">Malik Experts </a> Team to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
