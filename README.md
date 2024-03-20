@@ -58,7 +58,7 @@
 
 2. Get Pairing Code For SESSION ID
    <br>
-<a href='http://malikexperts.42web.io/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://session.guruapi.tech/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 <br>
 
 ---
