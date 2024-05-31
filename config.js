@@ -7,17 +7,17 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['923494757886', 'Nasrullah', true], 
-  [''] 
+  ['2349121881343', 'Nasrullah', true], 
+  ['2349151066117'] 
 ] //Number of owners
-global.pairingNumber = "923494757886" //put your bot number here
+global.pairingNumber = "2349151066117" //put your bot number here
 /*============== CHATGPT ==============*/
 global.openAiapi = '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'   // Get you Api-key from 'https://platform.openai.com/account/api-keys'
 global.org = 'org-hE49SehUQEPAGJAy20yr4Om9'   // Get you Org-Key from 'https://platform.openai.com/account/org-settings' 
 //*============= ==============*/
-global.mods = ['923494757886','923124442554'] 
+global.mods = ['2349151066117'] 
 global.prems = ['923124442554', '923494757886']
-global.allowed = ['923124442554', '923494757886']
+global.allowed = ['2349151066117']
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f'];
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63'];
@@ -61,7 +61,7 @@ global.APIKeys = {
 };
 
 // Sticker WM
-global.botname = 'Mr-Malik'
+global.botname = 'ÀKÀNDÉ-MIDÉ-BOT🤖🌹🍀'
 global.premium = 'true'
 global.packname = 'Mr-Malik' 
 global.author = '@Malik-Experts' 
@@ -81,7 +81,7 @@ global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🔥' 
-global.footerTXT = `Mr-malik • : +923494757886`
+global.footerTXT = `ÀKÀNDÉ-MIDÉ-BOT🤖🌹🍀 • : +2349151066117`
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.ddocx = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
